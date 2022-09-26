@@ -1,0 +1,37 @@
+.weather{
+    padding: 20px;
+    width: 30%;
+    background-color: rgb(95, 158, 160, 0.7);
+    border-radius: 15px;
+    color: aliceblue;
+    text-align: center;
+}
+.weather_tittle{
+    text-align: center;
+    transform: scale(0.7);
+}
+.weather_tittle h1{
+    font-size: 50px;
+}
+.weather_info{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.weather_info li{
+    margin: 10px 5px;
+    font-size: 20px;
+}
+.weather_info_img p{
+    font-size: 18px;
+    text-align: center;
+}
+.weather button{
+    padding: 15px;
+    border-radius: 1rem;
+    margin: 15px 0 0 0;
+    color: white;
+    background-color: rgb(201, 201, 201);
+    border: unset;
+    font-size: 18px;
+}
