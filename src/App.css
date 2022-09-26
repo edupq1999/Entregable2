@@ -12,4 +12,7 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-cielo-pastel-acuarela-pintado-mano_23-2148920282.jpg?w=2000);
+    background-size: cover;
+    background-position: center;
 }
