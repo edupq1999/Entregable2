@@ -1,6 +1,8 @@
 .weather{
     padding: 20px;
-    width: 30%;
+    width: 80%;
+    min-width: 350px;
+    max-width: 600px;
     background-color: rgb(95, 158, 160, 0.7);
     border-radius: 15px;
     color: aliceblue;
@@ -15,7 +17,7 @@
 }
 .weather_info{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
 }
 .weather_info li{
